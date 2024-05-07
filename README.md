@@ -35,3 +35,7 @@ pip install requirements.txt
 ```
 python src/nomad_search_keys.py > data/nomad_search_keys.yaml
 ```
+
+## A notebook that exemplifies the use of prompts for generating nomad search API queries
+
+[run_searches.ipynb](run_searches.ipynb)
